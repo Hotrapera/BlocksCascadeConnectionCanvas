@@ -1,3 +1,12 @@
+#FOR_PYCHARM
+.idea/
+
+#FOR VENV
+.venv/
+
+#FOR VS_CODE
+.vscode/
+
 /private/*
 .vscode/*
 !.vscode/settings.json
